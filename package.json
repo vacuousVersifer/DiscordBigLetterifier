@@ -1,0 +1,26 @@
+{
+  "name": "discord-big-letterifier",
+  "version": "1.0.0",
+  "description": "A simple script to turn text into regional indicator emojis for discord",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vacuousVersifer/discord-big-letterifier.git"
+  },
+  "keywords": [
+    "Discord",
+    "Emoji",
+    "Big",
+    "Letter"
+  ],
+  "author": "vacuousVersifer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vacuousVersifer/discord-big-letterifier/issues"
+  },
+  "homepage": "https://github.com/vacuousVersifer/discord-big-letterifier#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.26.0"
+  }
+}
